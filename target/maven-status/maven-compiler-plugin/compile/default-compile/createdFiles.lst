@@ -1,0 +1,5 @@
+com/harness/winrm/tester/curl.class
+com/harness/winrm/tester/winrm.class
+com/harness/winrm/tester/TrustAllCertificates.class
+com/harness/winrm/tester/ping.class
+com/harness/winrm/tester/main.class
