@@ -1,4 +1,4 @@
-# harness-winrm-repository
+# harness-winrm utility
 
 Purpose of this project is to provide a utility to validate Winrm network and security settings outside of Harness using 
 common network utilities like ping , curl e.t.c 
