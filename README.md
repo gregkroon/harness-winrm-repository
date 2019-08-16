@@ -11,5 +11,7 @@ It will do the following tests in order
 
 3) Finally attempt to connect via WINRM4J
 
-All detail logged to standard out .
+All detail logged to standard out . 
+
+Note: in some cases because of a WINRM4J bug you will need to prefix the domain with ./ 
 
